@@ -1,23 +1,5 @@
 # efecto-holograma-css
 
-### Esto es un encabezado de tercer nivel
-
-## Listas
-
-Puedes crear listas ordenadas y no ordenadas de la siguiente manera:
-
-### Lista no ordenada
-
-- Elemento 1
-- Elemento 2
-- Elemento 3
-
-### Lista ordenada
-
-1. Primer elemento
-2. Segundo elemento
-3. Tercer elemento
-
 # Explicación del Código CSS
 
 A continuación, se proporciona una explicación detallada del código CSS proporcionado:
